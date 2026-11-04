@@ -2,7 +2,11 @@
 Python Utility Toolkit
 Project Description
 
+<<<<<<< HEAD
+Python Utility Toolkit is a collection of simple Python utilities designed to perform common tasks.
+=======
 Python Utility Toolkit is a collaborative project that provides useful Python tools for everyday tasks.
+>>>>>>> f4d050f3efdf68d1b8cfd7ebc1e39017b8278790
 
 Features
 Calculator — performs addition, subtraction, multiplication, and division.
@@ -48,4 +52,8 @@ This project was developed collaboratively using Git and GitHub. The team used f
 
 License
 
-This project is intended for educational purposes.
+
+This project is intended for educational purposes.# change from main
+
+This project is intended for educational purposes.# change from feature-a
+
