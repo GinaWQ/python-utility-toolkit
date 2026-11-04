@@ -2,7 +2,7 @@
 Python Utility Toolkit
 Project Description
 
-Python Utility Toolkit is a collection of simple Python utilities designed to perform common tasks. The project includes a basic calculator, a temperature converter, a unit converter, and a password generator.
+Python Utility Toolkit is a collection of simple Python utilities designed to perform common tasks.
 
 Features
 Calculator — performs addition, subtraction, multiplication, and division.
