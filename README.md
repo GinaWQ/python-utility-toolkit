@@ -48,4 +48,8 @@ This project was developed collaboratively using Git and GitHub. The team used f
 
 License
 
+
 This project is intended for educational purposes.# change from main
+
+This project is intended for educational purposes.# change from feature-a
+
